@@ -8,6 +8,18 @@
   <img src="https://img.shields.io/github/contributors/imfunniee/curatee?style=flat" />
 </p>
 
+## Todo
+Some features needs to be worked on, here are list on some
+
+- \[x] Inital Release
+- \[ ] Let user add their subreddits
+- \[ ] Data Save mode (on by default)
+- \[ ] Sync/Fix Audio Problems
+
+## Future
+
+( Area for new fetaures )
+
 ## Build Setup
 
 ```bash
@@ -26,3 +38,6 @@ $ npm run generate
 ```
 
 For detailed explanation on how things work, check out [Nuxt.js docs](https://nuxtjs.org).
+
+## Updates
+Follow me on twitter (@imfunnieee) for the updates on this project
