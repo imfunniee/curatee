@@ -9,7 +9,7 @@
 </p>
 
 ## Todo
-Some features needs to be worked on, here are list on some
+Some features needs to be worked on, here are list of some
 
 - \[x] Inital Release
 - \[ ] Let user add their subreddits
