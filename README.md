@@ -1,5 +1,6 @@
-# curatee
-### story mode for your favorite subreddits feed
+<p align="center">
+  <img src="https://i.imgur.com/3ZLZp48.png" width="100%" height="auto"/>
+</p>
 
 ## Build Setup
 
