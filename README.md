@@ -1,6 +1,5 @@
 # curatee
-
-> story mode for your favorite subreddits feed
+### story mode for your favorite subreddits feed
 
 ## Build Setup
 
