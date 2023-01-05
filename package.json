@@ -16,7 +16,7 @@
     "cross-env": "^5.2.0",
     "express": "^4.16.4",
     "node-sass": "^4.13.0",
-    "nuxt": "^2.0.0",
+    "nuxt": "^2.15.8",
     "nuxt-storage": "^1.2.2",
     "sass-loader": "^8.0.0",
     "vue-awesome-swiper": "^3.1.3"
